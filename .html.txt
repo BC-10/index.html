@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Feliz Aniversário, Sra. Honrosa!</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #f8f8f8;
+            color: #333;
+            text-align: center;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #ff6f61;
+            color: white;
+            padding: 20px;
+        }
+        h1 {
+            font-size: 2.5em;
+        }
+        .message {
+            margin: 20px;
+            font-size: 1.2em;
+            line-height: 1.6;
+        }
+        .message em {
+            color: #ff6f61;
+        }
+        .spotify-embed {
+            margin-top: 20px;
+            text-align: center;
+        }
+        iframe {
+            border: none;
+            width: 100%;
+            max-width: 300px;
+            height: 80px;
+        }
+        .translation-link {
+            margin-top: 20px;
+            font-size: 1em;
+            color: #0066cc;
+        }
+        .translation-link a {
+            text-decoration: none;
+            color: #0066cc;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Parabéns, Sra. Honrosa!</h1>
+</header>
+
+<div class="message">
+    <p>Hoje é o seu dia, e eu quero te desejar tudo de bom e do melhor que a vida pode oferecer. Que cada novo ciclo traga mais paz, mais itens pra nossa lista e menos faltas na facul... e quem sabe, mais momentos nossos também rs.</p>
+    <p>Espero que o seu dia seja incrível!!</p>
+    <p><strong>Feliz aniversário! 🎉</strong></p>
+</div>
+
+<div class="spotify-embed">
+    <p>Ia fazer uma playlist, mas vai só uma música que lembra você mesmo:</p>
+    <iframe src="https://open.spotify.com/embed/track/1hQK7wXk9gU8h8lT3g6g9X" width="300" height="80" allow="encrypted-media"></iframe>
+</div>
+
+<div class="translation-link">
+    <p>Ah, já que você sabe 0 de inglês, toma aqui um link da tradução da música: <a href="https://www.letras.com/bruno-mars/1715605/traducao.html" target="_blank">Tradução da música "Just the Way You Are"</a></p>
+</div>
+
+</body>
+</html>
